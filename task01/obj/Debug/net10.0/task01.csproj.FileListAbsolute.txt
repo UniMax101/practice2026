@@ -1,0 +1,12 @@
+/Users/maksimlitvinov/Desktop/practice2026/task01/bin/Debug/net10.0/task01.deps.json
+/Users/maksimlitvinov/Desktop/practice2026/task01/bin/Debug/net10.0/task01.dll
+/Users/maksimlitvinov/Desktop/practice2026/task01/bin/Debug/net10.0/task01.pdb
+/Users/maksimlitvinov/Desktop/practice2026/task01/obj/Debug/net10.0/task01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimlitvinov/Desktop/practice2026/task01/obj/Debug/net10.0/task01.AssemblyInfoInputs.cache
+/Users/maksimlitvinov/Desktop/practice2026/task01/obj/Debug/net10.0/task01.AssemblyInfo.cs
+/Users/maksimlitvinov/Desktop/practice2026/task01/obj/Debug/net10.0/task01.csproj.CoreCompileInputs.cache
+/Users/maksimlitvinov/Desktop/practice2026/task01/obj/Debug/net10.0/task01.sourcelink.json
+/Users/maksimlitvinov/Desktop/practice2026/task01/obj/Debug/net10.0/task01.dll
+/Users/maksimlitvinov/Desktop/practice2026/task01/obj/Debug/net10.0/refint/task01.dll
+/Users/maksimlitvinov/Desktop/practice2026/task01/obj/Debug/net10.0/task01.pdb
+/Users/maksimlitvinov/Desktop/practice2026/task01/obj/Debug/net10.0/ref/task01.dll
