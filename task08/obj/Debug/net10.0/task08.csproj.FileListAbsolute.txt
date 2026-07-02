@@ -1,0 +1,12 @@
+/Users/maksimlitvinov/Desktop/practice2026/task08/bin/Debug/net10.0/task08.deps.json
+/Users/maksimlitvinov/Desktop/practice2026/task08/bin/Debug/net10.0/task08.dll
+/Users/maksimlitvinov/Desktop/practice2026/task08/bin/Debug/net10.0/task08.pdb
+/Users/maksimlitvinov/Desktop/practice2026/task08/obj/Debug/net10.0/task08.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimlitvinov/Desktop/practice2026/task08/obj/Debug/net10.0/task08.AssemblyInfoInputs.cache
+/Users/maksimlitvinov/Desktop/practice2026/task08/obj/Debug/net10.0/task08.AssemblyInfo.cs
+/Users/maksimlitvinov/Desktop/practice2026/task08/obj/Debug/net10.0/task08.csproj.CoreCompileInputs.cache
+/Users/maksimlitvinov/Desktop/practice2026/task08/obj/Debug/net10.0/task08.sourcelink.json
+/Users/maksimlitvinov/Desktop/practice2026/task08/obj/Debug/net10.0/task08.dll
+/Users/maksimlitvinov/Desktop/practice2026/task08/obj/Debug/net10.0/refint/task08.dll
+/Users/maksimlitvinov/Desktop/practice2026/task08/obj/Debug/net10.0/task08.pdb
+/Users/maksimlitvinov/Desktop/practice2026/task08/obj/Debug/net10.0/ref/task08.dll
