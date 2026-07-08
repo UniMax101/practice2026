@@ -5,6 +5,8 @@ public static class ReflectionHelper
 {
     public static void PrintTypeInfo(Type type)
     {
+        if (type == null) throw new ArgumentNullException(nameof(type));
+
         var displayName = type.GetCustomAttribute<DisplayNameAttribute>();
         if (displayName != null)
         {
