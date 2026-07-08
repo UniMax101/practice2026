@@ -1,4 +1,4 @@
-﻿namespace task08;
+﻿namespace CommandLib;
 
 public class Class1
 {
