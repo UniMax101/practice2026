@@ -1,20 +1,24 @@
 using System;
 using System.Reflection;
 using System.Collections.Generic;
+using System.Linq;
 
 public class ClassAnalyzer
 {
     private Type _type;
+
     public ClassAnalyzer(Type type)
     {
-        _type = type;
+        _type = type ?? throw new ArgumentNullException(nameof(type));
     }
-     public IEnumerable<string> GetPublicMethods()
+
+    public IEnumerable<string> GetPublicMethods()
     {
         var methods = _type.GetMethods();
         var names = methods.Select(m => m.Name);
         return names;
     }
+
     public IEnumerable<string> GetMethodParams(string methodname)
     {
         var method = _type.GetMethod(methodname);
@@ -25,6 +29,7 @@ public class ClassAnalyzer
         result.Add(method.ReturnType.Name);
         return result;
     }
+
     public IEnumerable<string> GetAllFields()
     {
         var fields = _type.GetFields(BindingFlags.Public | BindingFlags.NonPublic | BindingFlags.Instance);
@@ -41,11 +46,6 @@ public class ClassAnalyzer
 
     public bool HasAttribute<T>() where T : Attribute
     {
-        var attributes = _type.GetCustomAttributes(typeof(T), true);
-        if (attributes.Length > 0)
-        {
-            return true;
-        }
-        return false;
+        return _type.IsDefined(typeof(T), true);
     }
 }
