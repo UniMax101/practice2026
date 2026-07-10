@@ -1,0 +1,12 @@
+/Users/maksimlitvinov/Desktop/practice2026/practice2026/task07/bin/Debug/net10.0/task07.deps.json
+/Users/maksimlitvinov/Desktop/practice2026/practice2026/task07/bin/Debug/net10.0/task07.dll
+/Users/maksimlitvinov/Desktop/practice2026/practice2026/task07/bin/Debug/net10.0/task07.pdb
+/Users/maksimlitvinov/Desktop/practice2026/practice2026/task07/obj/Debug/net10.0/task07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimlitvinov/Desktop/practice2026/practice2026/task07/obj/Debug/net10.0/task07.AssemblyInfoInputs.cache
+/Users/maksimlitvinov/Desktop/practice2026/practice2026/task07/obj/Debug/net10.0/task07.AssemblyInfo.cs
+/Users/maksimlitvinov/Desktop/practice2026/practice2026/task07/obj/Debug/net10.0/task07.csproj.CoreCompileInputs.cache
+/Users/maksimlitvinov/Desktop/practice2026/practice2026/task07/obj/Debug/net10.0/task07.sourcelink.json
+/Users/maksimlitvinov/Desktop/practice2026/practice2026/task07/obj/Debug/net10.0/task07.dll
+/Users/maksimlitvinov/Desktop/practice2026/practice2026/task07/obj/Debug/net10.0/refint/task07.dll
+/Users/maksimlitvinov/Desktop/practice2026/practice2026/task07/obj/Debug/net10.0/task07.pdb
+/Users/maksimlitvinov/Desktop/practice2026/practice2026/task07/obj/Debug/net10.0/ref/task07.dll

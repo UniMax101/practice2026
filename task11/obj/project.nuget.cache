@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3WUexVprQv4=",
+  "success": true,
+  "projectFilePath": "/Users/maksimlitvinov/Desktop/practice2026/practice2026/task11/task11.csproj",
+  "expectedPackageFiles": [
+    "/Users/maksimlitvinov/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.4/microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
+    "/Users/maksimlitvinov/.nuget/packages/microsoft.codeanalysis.common/4.9.2/microsoft.codeanalysis.common.4.9.2.nupkg.sha512",
+    "/Users/maksimlitvinov/.nuget/packages/microsoft.codeanalysis.csharp/4.9.2/microsoft.codeanalysis.csharp.4.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
