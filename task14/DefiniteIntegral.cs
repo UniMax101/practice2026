@@ -61,4 +61,18 @@ public class DefiniteIntegral
 
         return result;
     }
+    public static double SolveSingleThread(double a, double b, Func<double, double> function, double step)
+    {
+        double sum = 0;
+        long steps = (long)((b - a) / step);
+
+        for (long k = 0; k < steps; k++)
+        {
+            double x1 = a + k * step;
+            double x2 = a + (k + 1) * step;
+            sum += (function(x1) + function(x2)) * step / 2;
+        }
+
+        return sum;
+    }
 }
